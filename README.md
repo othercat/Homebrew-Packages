@@ -6,7 +6,7 @@ A repository for my homebrew packages related brew.
 Usage
 -----
 
-    brew tap othercat/pageages
+    brew tap othercat/packages
     brew install readedid
 
 To update the tapped formulae from this repository use:
@@ -17,3 +17,5 @@ Available formulas
 ------------------
 
  *  readedid: builds readedid stable releases or git HEAD
+
+
